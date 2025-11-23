@@ -245,7 +245,7 @@ This opens `knowledge_graph.html` automatically.
 
 # **Future Enhancements**
 
-### 1️**Semantic Entity Resolution (pgvector)**
+### 1️. **Semantic Entity Resolution (pgvector)**
 
 Automatically merge:
 
@@ -253,11 +253,11 @@ Automatically merge:
 * “Gaussian Splatting”
 * “3D Gaussian Splatting”
 
-### 2️**Parallel PDF Processing**
+### 2️. **Parallel PDF Processing**
 
 Using Dockerized workers + Redis queues.
 
-### 3**Full Web UI**
+### 3. **Full Web UI**
 
 React Flow / Graphology:
 
@@ -265,7 +265,7 @@ React Flow / Graphology:
 * Evidence view
 * Expand-on-click
 
-### 4**Continuous Research Ingestion**
+### 4. **Continuous Research Ingestion**
 
 Auto-pull new papers from arXiv (`cs.CV`).
 
