@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+.env.*
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# PDFs (DO NOT upload PDFs to GitHub)
+papers/*.pdf
+
+# Supabase local config
+supabase/
+
+# HTML and images generated
+knowledge_graph.html
+Figure_1.png
